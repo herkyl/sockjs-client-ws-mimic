@@ -1,3 +1,6 @@
+Install:
+`npm install sockjs-client-ws-mimic`
+
 # sockjs-client-ws-mimic
 
 Drop in replacement for [sockjs-client](https://github.com/sockjs/sockjs-client "sockjs-client") for Node.js. Perfect for building both client and node.js tests with same client-side code.
