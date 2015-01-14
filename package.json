@@ -1,7 +1,7 @@
 {
   "name": "sockjs-client-ws-mimic",
    "author": {
-    "name": "Serge Herkül"
+    "name": "Serge"
   },
   "version": "1.0.1",
   "description": "SockJS client for Node that mimics SockJS-client's API",
